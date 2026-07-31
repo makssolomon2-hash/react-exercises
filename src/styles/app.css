@@ -1,0 +1,16 @@
+﻿
+#root,
+.app-shell {
+    min-height: 100vh;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.header{
+    margin-top: 2ch;
+    color: #60a5fa;
+}
+
+
